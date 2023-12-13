@@ -1,2 +1,3 @@
 hello this a line for this text
 this a nre somthing
+this is another file add by another one.
